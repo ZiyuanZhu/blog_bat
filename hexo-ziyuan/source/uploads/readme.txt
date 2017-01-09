@@ -1,0 +1,1 @@
+头像文件：在next/config.yml文件中搜索avatar，将其前面注释去掉，更改图片路径为/uploads/kui.JPG(自己的图片名，包括后缀都区分大小写). 
